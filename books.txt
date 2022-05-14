@@ -1,0 +1,600 @@
+*************************************************
+1.
+Book Name:Gece Yarısı Kütüphanesi
+Author: Matt Haig
+Publisher:DOMİNGO YAYINEVİ
+*************************************************
+*************************************************
+2.
+Book Name:Veronika Ölmek İstiyor
+Author: Paulo Coelho
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+3.
+Book Name:Kur’an Meal-Tefsir: Geniş Açıklamalı (Ciltli)
+Author: Mehmet Okuyan
+Publisher:HALİÇ ÜNİVERSİTESİ YAYINLARI
+*************************************************
+*************************************************
+4.
+Book Name:Şeker Portakalı (Ciltsiz)
+Author: Jose Mauro De Vasconcelos
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+5.
+Book Name:Anka Kuşu
+Author: Yılmaz Özdil
+Publisher:SİA KİTAP
+*************************************************
+*************************************************
+6.
+Book Name:İnsan Geleceğini Nasıl Kurar? & Kendini İnşa Etmenin Yolları
+Author:Prof. Dr. İlber Ortaylı
+Publisher:KRONİK KİTAP
+*************************************************
+*************************************************
+7.
+Book Name:Atomik Alışkanlıklar
+Author: James Clear
+Publisher:PEGASUS YAYINLARI
+*************************************************
+*************************************************
+8.
+Book Name:En Çılgın Takıntı
+Author: Danielle Lori
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+9.
+Book Name:Fareler ve İnsanlar
+Author: John Steinbeck
+Publisher:SEL YAYINCILIK
+*************************************************
+*************************************************
+10.
+Book Name:Karatay Sözü
+Author: Canan Efendigil Karatay
+Publisher:HAYY KİTAP
+*************************************************
+*************************************************
+11.
+Book Name:Ben, Kirke
+Author: Madeline Miller
+Publisher:İTHAKİ YAYINLARI
+*************************************************
+*************************************************
+12.
+Book Name:Simyacı (Ciltsiz)
+Author: Paulo Coelho
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+13.
+Book Name:Hayvan Çiftliği (Ciltsiz)
+Author: George Orwell
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+14.
+Book Name:Kürk Mantolu Madonna
+Author: Sabahattin Ali
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+15.
+Book Name:Saatleri Ayarlama Enstitüsü
+Author: Ahmet Hamdi Tanpınar
+Publisher:DERGAH YAYINLARI
+*************************************************
+*************************************************
+16.
+Book Name:Akhilleus’un Şarkısı
+Author: Madeline Miller
+Publisher:İTHAKİ YAYINLARI
+*************************************************
+*************************************************
+17.
+Book Name:Bin Dokuz Yüz Seksen Dört - 1984 
+Author: George Orwell
+Publisher:KAPRA YAYINCILIK
+*************************************************
+*************************************************
+18.
+Book Name:Kırmızı Pazartesi
+Author: Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+19.
+Book Name:Gerçek Tıp & Yitik Şifanın İzinde
+Author: Aidin Salih
+Publisher:YİTİK ŞİFA
+*************************************************
+*************************************************
+20.
+Book Name:İnsanlar
+Author: Matt Haig
+Publisher:DOMİNGO YAYINEVİ
+*************************************************
+*************************************************
+21.
+Book Name:Zeytindağı
+Author: Falih Rıfkı Atay
+Publisher:POZİTİF YAYINLARI
+*************************************************
+*************************************************
+22.
+Book Name:01:01 Bugün Adımı Sen Koy (Cep Boy)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+23.
+Book Name:Güneşi Uyandıralım
+Author: Jose Mauro De Vasconcelos
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+24.
+Book Name:Kırk Kere Söyledim & Ben Ne Söyledim, Çocuğum Ne Anladı?
+Author:Prof. Dr. Ziya Selçuk
+Publisher:KRONİK KİTAP
+*************************************************
+*************************************************
+25.
+Book Name:Allah ile Konuşturan Namaz
+Author: Mehmet  Yıldız
+Publisher:TİMAŞ YAYINLARI
+*************************************************
+*************************************************
+26.
+Book Name:Aylak Adam
+Author: Yusuf Atılgan
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+27.
+Book Name:Yaşamak
+Author: Yu Hua 
+Publisher:JAGUAR KİTAP
+*************************************************
+*************************************************
+28.
+Book Name:03:03 Dolunayda Açan Çiçek (Cep Boy)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+29.
+Book Name:00:00 Biri Sizi Düşünüyor (Cep Boy)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+30.
+Book Name:02:02 Ayçiçeği Karnavalı (Cep Boy)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+31.
+Book Name:Saklambaç (Cep Boy)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+32.
+Book Name:Delifişek
+Author: Jose Mauro De Vasconcelos
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+33.
+Book Name:Benim Zürafam Uçabilir
+Author: Mert Arık
+Publisher:TİMAŞ ÇOCUK YAYINLARI
+*************************************************
+*************************************************
+34.
+Book Name:Kayıp Tanrılar Ülkesi
+Author: Ahmet Ümit
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+35.
+Book Name:Billy Summers
+Author: Stephen King
+Publisher:ALTIN KİTAPLAR
+*************************************************
+*************************************************
+36.
+Book Name:İnsanın Anlam Arayışı
+Author: Viktor Emil Frankl
+Publisher:OKUYAN US YAYIN
+*************************************************
+*************************************************
+37.
+Book Name:30 Günde 10 Yıl
+Author:Prof. Dr. Yavuz Yörükoğlu
+Publisher:HAYY KİTAP
+*************************************************
+*************************************************
+38.
+Book Name:Cesur Yeni Dünya
+Author: Aldous Huxley
+Publisher:İTHAKİ YAYINLARI
+*************************************************
+*************************************************
+39.
+Book Name:İnsan Olmak
+Author: Engin Geçtan
+Publisher:METİS YAYINLARI
+*************************************************
+*************************************************
+40.
+Book Name:En Tatlı Kaçış
+Author: Danielle Lori
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+41.
+Book Name:Semerkant
+Author: Amin Maalouf
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+42.
+Book Name:Tiamat (Karton Kapak)
+Author: İhsan Oktay Anar
+Publisher:EVEREST YAYINLARI
+*************************************************
+*************************************************
+43.
+Book Name:Son Cüret
+Author: Yılmaz Özdil
+Publisher:SİA KİTAP
+*************************************************
+*************************************************
+44.
+Book Name:Harry Potter ve Felsefe Taşı
+Author: J. K. Rowling
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+45.
+Book Name:Yaklaşan Kasırga
+Author: Levent Gültekin
+Publisher:DOĞAN KİTAP
+*************************************************
+*************************************************
+46.
+Book Name:Huzursuzluk
+Author: Zülfü Livaneli
+Publisher:DOĞAN KİTAP
+*************************************************
+*************************************************
+47.
+Book Name:Yüzyıllık Yalnızlık (Ciltsiz)
+Author: Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+48.
+Book Name:Kapra Felsefe Seti (10 Kitap)
+Author: Rene Descartes
+Publisher:KAPRA YAYINCILIK
+*************************************************
+*************************************************
+49.
+Book Name:Puslu Kıtalar Atlası
+Author: Cicero 
+Publisher:İLETİŞİM YAYINLARI
+*************************************************
+*************************************************
+50.
+Book Name:Dune
+Author: Tommasso Campanella
+Publisher:İTHAKİ YAYINLARI
+*************************************************
+*************************************************
+51.
+Book Name:İçimizdeki Şeytan
+Author: Francis Bacon
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+52.
+Book Name:Geliştiren Anne-Baba
+Author: Sigmund Freud
+Publisher:KRONİK KİTAP
+*************************************************
+*************************************************
+53.
+Book Name:Doğunun Limanları
+Author: Niccolo Machiavelli
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+54.
+Book Name:Pal Sokağı Çocukları
+Author: Platon(Eflatun) 
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+55.
+Book Name:Okçu'nun Yolu
+Author: William James
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+56.
+Book Name:Başkalarının Tanrısı
+Author: İhsan Oktay Anar
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+57.
+Book Name:Güzel Dünya, Neredesin?
+Author: Frank Herbert
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+58.
+Book Name:Diriliş Neslinin Amentüsü
+Author: Sabahattin Ali
+Publisher:DİRİLİŞ YAYINLARI
+*************************************************
+*************************************************
+59.
+Book Name:İnce Memed 1
+Author: Doğan Cüceloğlu
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+60.
+Book Name:Kuyucaklı Yusuf
+Author: Amin Maalouf
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+61.
+Book Name:Tutunamayanlar / Bütün Eserleri 1
+Author: Oğuz Atay
+Publisher:İLETİŞİM YAYINLARI
+*************************************************
+*************************************************
+62.
+Book Name:Lordlar ve Varisler / Hepimiz Gökyüzü Olmak İstedik (Kutu)
+Author: N. G. Kabal
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+63.
+Book Name:Kalk Yerine Yat
+Author: Şermin Yaşar
+Publisher:DOĞAN KİTAP
+*************************************************
+*************************************************
+64.
+Book Name:Dumbledore (Ciltli) & Hogwarts’in Tanınmış Müdürünün Hayatı ve Yalanları - Gayriresmî Araştırma
+Author: Irvin Khaytman
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+65.
+Book Name:Kapak Kızı
+Author: Ayfer Tunç
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+66.
+Book Name:Neden İslam’ın Orta Çağı Yoktu ? & Antik Çağ’ın Mirası ve Doğu
+Author: Thomas Bauer
+Publisher:RUNİK KİTAP
+*************************************************
+*************************************************
+67.
+Book Name:Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+Author: Jostein Gaarder
+Publisher:PAN YAYINCILIK
+*************************************************
+*************************************************
+68.
+Book Name:Aşk ve Öbür Cinler
+Author: Gabriel Garcia Marquez
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+69.
+Book Name:Çavdar Tarlasında Çocuklar
+Author: J. D. Salinger
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+70.
+Book Name:Süt ve Bal
+Author: Rupi Kaur
+Publisher:PEGASUS YAYINLARI
+*************************************************
+*************************************************
+71.
+Book Name:Beyaz Zambaklar Ülkesinde
+Author: Grigory Petrov
+Publisher:KAPRA YAYINCILIK
+*************************************************
+*************************************************
+72.
+Book Name:İki Şehrin Hikayesi
+Author: Charles Dickens
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+73.
+Book Name:Paranın Psikolojisi
+Author: Morgan Housel
+Publisher:SCALA YAYINCILIK
+*************************************************
+*************************************************
+74.
+Book Name:Doğu Ekspresinde Cinayet
+Author: Agatha Christie
+Publisher:ALTIN KİTAPLAR
+*************************************************
+*************************************************
+75.
+Book Name:İnce Memed 2
+Author: Yaşar Kemal
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+76.
+Book Name:Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Author: Mecit Ömür Öztürk
+Publisher:HAYY KİTAP
+*************************************************
+*************************************************
+77.
+Book Name:2022 KPSS Genel Yetenek - Genel Kültür Coğrafya 30 Deneme
+Author: Kolektif 
+Publisher:PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+*************************************************
+*************************************************
+78.
+Book Name:Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Author:Prof. Dr. İlber Ortaylı
+Publisher:KRONİK KİTAP
+*************************************************
+*************************************************
+79.
+Book Name:Yapısal Reformlar ve Türkiye
+Author: Mahfi Eğilmez
+Publisher:REMZİ KİTABEVİ
+*************************************************
+*************************************************
+80.
+Book Name:Lo
+Author: Şermin Yaşar
+Publisher:DOĞAN ÇOCUK
+*************************************************
+*************************************************
+81.
+Book Name:Teklif 2 Aylık Düşünce Dergisi Sayı:3 Mayıs 2022
+Author: Kolektif 
+Publisher:TEKLİF DERGİ
+*************************************************
+*************************************************
+82.
+Book Name:KPSS ALES DGS Ezberbozan Paragraf Soru Bankası
+Author: Bilgin Adalı
+Publisher:PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+*************************************************
+*************************************************
+83.
+Book Name:Zaman Bisikleti
+Author: Maris Wicks
+Publisher:CAN ÇOCUK YAYINLARI
+*************************************************
+*************************************************
+84.
+Book Name:İnsan Vücudu Tiyatrosu
+Author: Victor Hugo
+Publisher:DOMİNGO YAYINEVİ
+*************************************************
+*************************************************
+85.
+Book Name:Bir İdam Mahkumunun Son Günü
+Author: Hermann Hesse
+Publisher:KARBON KİTAPLAR
+*************************************************
+*************************************************
+86.
+Book Name:Siddhartha (Ciltsiz)
+Author: Doğan Cüceloğlu
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+87.
+Book Name:Evlenmeden Önce
+Author: N. G. Kabal
+Publisher:KRONİK KİTAP
+*************************************************
+*************************************************
+88.
+Book Name:Saklambaç (Ciltli)
+Author: John Steinbeck
+Publisher:MARTI YAYINLARI
+*************************************************
+*************************************************
+89.
+Book Name:İnci
+Author: Serkan Aksoy
+Publisher:SEL YAYINCILIK
+*************************************************
+*************************************************
+90.
+Book Name:2022 KPSS Genel Yetenek - Genel Kültür Tarih 30 Deneme
+Author: Kolektif 
+Publisher:PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+*************************************************
+*************************************************
+91.
+Book Name:2022 KPSS Genel Yetenek - Genel Kültür Türkçe 30 Deneme
+Author: Julia Sena Yamanoğlu
+Publisher:PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+*************************************************
+*************************************************
+92.
+Book Name:Benim Adım Sena  
+Author: Charlotte Brontë
+Publisher:NESİL YAYINLARI
+*************************************************
+*************************************************
+93.
+Book Name:Jane Eyre
+Author: Albert Camus
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+94.
+Book Name:Yabancı 
+Author:Prof. Dr. Ahmet Taşağıl
+Publisher:CAN YAYINLARI
+*************************************************
+*************************************************
+95.
+Book Name:İslamiyet Öncesi Türkler
+Author: Pelin Çift
+Publisher:YEDİTEPE YAYINEVİ
+*************************************************
+*************************************************
+96.
+Book Name:Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Author: Clarissa Pinkola Estes
+Publisher:AYRINTI YAYINLARI
+*************************************************
+*************************************************
+97.
+Book Name:Elmalılı Hamdi Yazır ile Kur'an Sohbetleri
+Author: Fatma Bayram
+Publisher:TİMAŞ YAYINLARI
+*************************************************
+*************************************************
+98.
+Book Name:Harry Potter ve Sırlar Odası
+Author: J. K. Rowling
+Publisher:YAPI KREDİ YAYINLARI
+*************************************************
+*************************************************
+99.
+Book Name:Outliers (Çizginin Dışındakiler) & Bazı İnsanlar Neden Daha Başarılı Olur?
+Author: Malcolm Gladwell
+Publisher:MEDİACAT KİTAPLARI
+*************************************************
+*************************************************
+100.
+Book Name:Bir İdam Mahkumunun Son Günü
+Author: Victor Hugo
+Publisher:KAPRA YAYINCILIK
+*************************************************
